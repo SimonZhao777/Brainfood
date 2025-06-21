@@ -2,7 +2,7 @@
 ![Swift version](https://img.shields.io/badge/swift-5.0-orange.svg)
 ![Platforms](https://img.shields.io/badge/platforms-iOS%20-lightgrey.svg)
 
-**Please use this repo as STUDY purpose only and do not use for other purposes**
+****
 
 Brainfood is an online food ordering system for people that need special dietary care.. (Continually updating)
 
